@@ -1,0 +1,9 @@
+{
+	"name": "Al Maksab Food and Beverage Trading",
+	"short_name": "Al Maksab Food and Beverage Trading",
+	"theme_color": "#8e8741",
+	"background_color": "#000000",
+	"display": "standalone",
+	"Scope": "https://6294c9985dad6.site123.me/",
+	"start_url": "https://6294c9985dad6.site123.me/",
+	"icons": [{"src":"https://cdn-cms-s.f-static.net/ready_uploads/pwaScreenLogo/pwaImage.png?width=192&height=192&resizeType=pwaIcon&w=&orderScreen=&websiteID=6345589&tranW=&v=css_r153_33969286&moduleID=","sizes":"192x192","type":"image/png"},{"src":"https://cdn-cms-s.f-static.net/ready_uploads/pwaScreenLogo/pwaImage.png?width=512&height=512&resizeType=pwaIcon&w=&orderScreen=&websiteID=6345589&tranW=&v=css_r153_33969286&moduleID=","sizes":"512x512","type":"image/png"}]}
